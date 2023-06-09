@@ -1,2 +1,2 @@
-#!/bin/bachown  
+#!/bin/bash
 chown :school hello
