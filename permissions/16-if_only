@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -h --from vincent:hello guillaume:hello
+sudo chown --from guillaume: vincent: hello
