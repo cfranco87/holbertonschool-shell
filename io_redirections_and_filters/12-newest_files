@@ -1,2 +1,2 @@
 #!/bin/bash
--type f -print f "%t - %p\n" 
+find /io_redirections_and_filters -type f -print f "%t - %p\n" 
