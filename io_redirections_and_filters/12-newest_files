@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -lht
+sort -lht io_redirections_and_filters
