@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tp | grep -v /$ | head -1 
+-type f -printf "%t - %p\n" | sort -n | tail -1
