@@ -1,2 +1,2 @@
 #!/bin/bash
-find . holbertonschool-shell *.js -delete
+rm -v *.js
