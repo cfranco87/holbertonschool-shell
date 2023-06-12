@@ -1,2 +1,2 @@
 #!/bin/bash
-find /io_redirections_and_filters -type f -printf "%t - %p\n" | head -n 
+ls -lt| head -n 10 
